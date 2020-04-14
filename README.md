@@ -21,8 +21,7 @@ python demo.py
 
 ## Citation
 If you use our code  for research, please this paper:
-
-This is a python implementation of Illuminant Aware Gamut-Based Color Transfer in Computer Graphics Forum 2014
+Illuminant Aware Gamut-Based Color Transfer in Computer Graphics Forum 2014
 
 ### License
 MIT License.
